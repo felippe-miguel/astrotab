@@ -1,3 +1,4 @@
-# clone-tabnews
+# Astrotab
 
-Clone do projeto tabnews implementado do zero para o curso.dev
+Projeto criado como estudo para o curso.dev
+A ideia do projeto é servir como um Tabnews mas focado em astronomia!
