@@ -7,7 +7,7 @@ Astrotab é um projeto criado como estudo para o curso.dev, com o objetivo de se
 - **Node.js**: Plataforma principal para execução do backend.
 - **PostgreSQL**: Banco de dados relacional utilizado para armazenar as informações do fórum.
 - **Jest**: Framework de testes utilizado para garantir a qualidade do código.
-- **Docker Compose**: Utilizado para orquestrar os serviços da aplicação, facilitando o setup do ambiente de desenvolvimento.
+- **Docker**: Utilizado para orquestrar os serviços da aplicação, facilitando o setup do ambiente de desenvolvimento.
 
 ## Estrutura do Projeto
 
